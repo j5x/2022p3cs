@@ -1,0 +1,16 @@
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.exe
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.deps.json
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.runtimeconfig.json
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.runtimeconfig.dev.json
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.dll
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\ref\achievements.dll
+C:\MA\2021-2022\P3\C#\achievements\bin\Debug\net5.0\achievements.pdb
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.csproj.AssemblyReference.cache
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.AssemblyInfoInputs.cache
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.AssemblyInfo.cs
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.csproj.CoreCompileInputs.cache
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.dll
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\ref\achievements.dll
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.pdb
+C:\MA\2021-2022\P3\C#\achievements\obj\Debug\net5.0\achievements.genruntimeconfig.cache
